@@ -1,0 +1,7 @@
+C:\Users\abega\source\repos\Module1Generics\Module1Generics\bin\Debug\Module1Generics.exe.config
+C:\Users\abega\source\repos\Module1Generics\Module1Generics\bin\Debug\Module1Generics.exe
+C:\Users\abega\source\repos\Module1Generics\Module1Generics\bin\Debug\Module1Generics.pdb
+C:\Users\abega\source\repos\Module1Generics\Module1Generics\obj\Debug\Module1Generics.csproj.AssemblyReference.cache
+C:\Users\abega\source\repos\Module1Generics\Module1Generics\obj\Debug\Module1Generics.csproj.CoreCompileInputs.cache
+C:\Users\abega\source\repos\Module1Generics\Module1Generics\obj\Debug\Module1Generics.exe
+C:\Users\abega\source\repos\Module1Generics\Module1Generics\obj\Debug\Module1Generics.pdb
